@@ -37,7 +37,6 @@ real-time-data-pipeline/
 └── consumer/
 └── consumer.py # (Optional) Reads data from Kafka for testing
 
-
 ---
 
 ## 🚀 How to Run (Step-by-Step)
