@@ -1,23 +1,16 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
 
-# Virtual Envs
-.venv/
-env/
+# Virtual environment
 venv/
 
-# Environment variables
-.env
-
-# Docker
-*.log
-*.pid
-*.sock
-
-# VS Code
+# IDE / Editor folders
 .vscode/
+.idea/
 
-# OS files
+# Logs and misc
+*.log
+.env
 .DS_Store
-Thumbs.db
